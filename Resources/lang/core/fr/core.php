@@ -1,5 +1,4 @@
 <?php
-
 return [
     'modal' => [
         'title' => 'Confirmation',
@@ -11,19 +10,20 @@ return [
         'thumbnail' => 'Vignette',
     ],
     'tab' => [
+        'arabic' => 'Arabe',
+        'czech' => 'Tchèque',
+        'dutch' => 'Néerlandais',
         'english' => 'Anglais',
         'french' => 'Français',
-        'dutch' => 'Néerlandais',
-        'italian' => 'Italien',
         'greek' => 'Grec',
-        'spanish' => 'Espagnol',
-        'czech' => 'Tchèque',
+        'italian' => 'Italien',
+        'macedonian' => 'Мacédonien',
         'polish' => 'Polonais',
         'portuguese' => 'Portugais',
-        'arabic' => 'Arabe',
-        'macedonian' => 'Мacédonien',
-        'turkish' => 'Turc',
+        'russian' => 'Russe',
+        'spanish' => 'Espagnol',
         'swedish' => 'Suédois',
+        'turkish' => 'Turc',
     ],
     'button' => [
         'cancel' => 'Annuler',
